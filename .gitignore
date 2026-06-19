@@ -1,0 +1,6 @@
+.chrome-test/
+.edge-test/
+.agents/
+.vscode/
+.DS_Store
+Thumbs.db
